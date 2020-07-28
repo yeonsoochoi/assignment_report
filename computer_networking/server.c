@@ -1,4 +1,3 @@
-// 2015005141 최연수
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/ioctl.h>
